@@ -13,7 +13,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="https://www.facebook.com/nazmulhudarimon123/">
-  <img  alt=" Nazmul's Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img  alt=" Nazmul's Facebook" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 
@@ -46,7 +46,7 @@
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nAzmulHudaa&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=nAzmulHudaa&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=#000000">
 </p>
 <br/>
 <p align="center">
