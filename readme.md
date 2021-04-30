@@ -12,6 +12,9 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.facebook.com/nazmulhudarimon123/">
+  <img  alt=" Nazmul's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 
 <br />
@@ -37,6 +40,19 @@
 
 <br />
 <br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nAzmulHudaa" alt="nazmulhuda" /> 
+</p>
+
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nAzmulHudaa&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</p>
+<br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nAzmulHudaa&card_width=550)](https://github.com/nAzmulHudaa">
+</p>
+
 
 ---
 
