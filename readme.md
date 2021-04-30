@@ -40,14 +40,6 @@
 
 ---
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="nAzmulHudaa's GitHub Stats" src="https://github-readme-stats.nAzmulHudaa.vercel.app/api?username=nAzmulHudaa&show_icons=true&hide_border=true" />
-
-</details>
 
 [linkedin]: https://www.linkedin.com/in/md-nazmul-huda-rimon-6a588a190/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
