@@ -2,11 +2,11 @@
 
 ## I'm a Curious Programmer !!
 
-- 🔭 I just launched my first course
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I'm currently working on Backend 
+- 🌱 I’m currently learning MERN stack 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Learn Python and Django
+- ⚡ Fun fact: Proggrammers don't sleep like me 
 
 
 ### Connect with me:
