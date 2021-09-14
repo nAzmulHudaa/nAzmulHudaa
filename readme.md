@@ -2,10 +2,10 @@
 
 ## I'm a Curious Programmer !!
 
-- 🔭 I'm currently working on Backend 
+- 🔭 I'm currently working on NODE JS 
 - 🌱 I’m currently learning MERN stack 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn Python and Django
+- 🥅 2021 Goals: Learn Node Js and Object Oriented Programming
 - ⚡ Fun fact: Proggrammers don't sleep like me 
 
 
