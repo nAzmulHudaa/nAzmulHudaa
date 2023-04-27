@@ -1,4 +1,4 @@
-### Hi there, I'm Rimon👋
+### Hi there, I'm Nazmul👋
 
 ## I'm a Curious Programmer !!
 
